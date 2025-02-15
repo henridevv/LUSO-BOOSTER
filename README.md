@@ -4,6 +4,7 @@
 ### LATEST UPDATE 02-15-2025 🗓
 
 # Optimize Windows Tools for FPS boost
+### ![](https://github.com/henridevv/LUSO-BOOSTER/blob/main/fpsboost.jpg)
 # Info 📝
 <ul><li>Windows and app optimization using cmd and Registry files!</li>
 
